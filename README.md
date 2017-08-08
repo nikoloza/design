@@ -23,6 +23,11 @@
 ### Visual Language
 - [ ] [Visual Language Tutorial](https://tonypritchard.wordpress.com/2010/05/23/visual-language-tutorial/)
 
+### Typography
+- [ ] [Five simple steps to better typography](http://www.markboulton.co.uk/journal/five-simple-steps-to-better-typography)
+- [ ] [Readability: the Optimal Line Length](https://baymard.com/blog/line-length-readability)
+- [ ] [8 Simple Typography Tips For Your Designs](https://www.smashingmagazine.com/2009/04/8-simple-ways-to-improve-typography-in-your-designs/)
+
 ## Courses
 
 - [ ] [Graphic Design Foundations: Layout and Composition](https://www.lynda.com/Design-Techniques-tutorials/Contrast-critical-ingredient-every-design/135095/153693-4.html)
