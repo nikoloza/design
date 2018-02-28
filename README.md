@@ -3,7 +3,7 @@
 ## Composition
 
 ### Tension
-- [x] [How To Create Visual Tension in Your Designs](http://vanseodesign.com/web-design/visual-tension/)
+- [How To Create Visual Tension in Your Designs](http://vanseodesign.com/web-design/visual-tension/)
 - [Visual Tension = Vital Energy](http://jefffennel.blogspot.com/2009/07/visual-tension-vital-energy.html)
 
 ### Spacing
